@@ -1,0 +1,28 @@
+body{
+    background-color: pink;
+    text-align: center;
+    color: #fff;
+}
+.header{
+    text-align: center;
+    color: rgb(28, 202, 241);
+    text-decoration: underline;
+    font-size: 60px;
+}
+#header2{
+      text-align: center;
+    color: rgb(172, 118, 203);
+    text-decoration: underline;
+    font-size: 40px;
+}
+.p{
+  font-family: "Chewy", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+.img{
+    text-align: left;
+    border-radius: 50%;
+    width: 400px;
+    height: 400px;
+}
