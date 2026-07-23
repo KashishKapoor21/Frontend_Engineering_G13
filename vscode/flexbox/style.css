@@ -1,0 +1,23 @@
+body{
+    background-color:rgb(103, 180, 239);
+}
+.container{
+    color: rgba(255, 255, 255, 0.905);
+    text-align: center;
+}
+.header1{
+    border: 10px solid rgb(208, 144, 155);
+    margin: 20px;
+    margin-top: 150px;
+    display: flex;
+}
+.header2{
+    border: 10px solid rgb(208, 144, 155);
+    margin: 20px;
+    display: flex;
+}
+.header3{
+    border: 10px solid rgb(208, 144, 155);
+    margin: 20px;
+    display: flex;
+}
